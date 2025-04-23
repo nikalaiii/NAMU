@@ -1,61 +1,62 @@
-# -National Art Museum of Ukraine
+# 🖼️ National Art Museum of Ukraine
 
-A modern landing page designed to showcase the National Museum, its exhibitions, events, and exclusive content. The site is fully responsive, user-friendly, and optimized for all screen sizes.
+**A modern landing page designed to showcase the National Museum, its exhibitions, events, and exclusive content.**  
+The site is fully responsive, user-friendly, and optimized for all screen sizes.
 
-  Key Features:
+📍 [🔗 Live Demo](https://nikalaiii.github.io/NAMU/)
 
-    -Highlights of current and upcoming exhibitions
+🎨 Based on the design prototype: [Figma Link](https://www.figma.com/design/HL3XGt5ZatvJoYBhOaWY5x/museum-prototype)
 
-    -News and event updates
+---
 
-    -Newsletter subscription
+## 🚀 Key Features
 
-# Live Demo
+- 🖼 Highlights of current and upcoming exhibitions  
+- 📰 News and event updates  
+- ✉️ Newsletter subscription  
+- 📱 Responsive layout for all screen sizes  
 
-    -Experience the live website on: [DEMO LINK](https://nikalaiii.github.io/NAMU/)
+---
 
-    -This page based on design: https://www.figma.com/design/HL3XGt5ZatvJoYBhOaWY5x/museum-prototype
+## 🛠️ Technologies Used
 
---🛠️ Technologies Used--
+- **HTML5** — semantic and accessible markup  
+- **CSS3 / SASS (SCSS)** — modular and maintainable styling  
+- **JavaScript (Vanilla)** — interactive elements and behavior  
+- **Gulp** — task automation (build process, minification, live reload)  
 
-    HTML5 — semantic and accessible markup
+---
 
-    CSS3 / SASS (SCSS) — modular and maintainable styling
+## 🧑‍💻 Getting Started
 
-    JavaScript (Vanilla) — interactive elements and behavior
+Clone the repository:
 
-    Gulp — task automation (build process, minification, live reload)
+```bash
+git clone https://github.com/nikalaiii/NAMU.git
 
-# Getting Started
+cd NAMU
 
-  1. Clone the repository:
+Install dependencies:
 
-    --> git clone https://nikalaiii.github.io/NAMU.git
-
-    --> cd project-name
-
-  2. Install dependencies:
-
-    --> npm install
-
+npm install
 # or
+yarn install
+Run the project locally:
 
-    --> yarn install
-
-  3. Run the project locally:
-
-    --> npm start
-
+npm start
 # or
+yarn start
 
-    --> yarn start
+```
 
-# ✨ Features
+✨ Features
+📱 Responsive Design — fully adapts to all screen sizes, including mobile and tablet
 
-    -Responsive Design — fully adapts to all screen sizes, including mobile and tablet
+🧩 Interactive UI — dynamic elements (hover, click, scroll)
 
-    -Interactive UI — dynamic elements react to user actions (hover, click, scroll)
+🔗 Functional Buttons & Links — full navigation experience
 
-    -Functional Buttons & Links — navigation and interaction elements are fully operational
+🧭 Clean UX — intuitive layout for exploring exhibitions and content
 
-    -Clean UX — intuitive layout for easy exploration of exhibitions, events, and content
+
+
